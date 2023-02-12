@@ -16,7 +16,7 @@ if (randomTopic === 'HTML') {
 } else if (randomTopic === 'Git') {
   console.log("Let's study Git!");
 } else if (randomTopic === 'JavaScript') {
-    console.log('Please try again!');
+    console.log("Please try again!");
 }
 }
 
